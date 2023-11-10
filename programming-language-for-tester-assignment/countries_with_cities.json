@@ -1,0 +1,802 @@
+[
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.5553,
+      "long": 69.2075
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.3275,
+      "long": 19.8187
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.72222791981175,
+      "long": 3.0234475145605
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.359208879910836,
+      "long": 44.19665794941947
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.426803049878034,
+      "long": 28.364724632388757
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.8252,
+      "long": 31.0335
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.58140247226813,
+      "long": 69.30072250137559
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.26073060349547,
+      "long": 19.792257120187955
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.82127277487436,
+      "long": 3.0870093624590718
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.343724000775987,
+      "long": 44.19793898250759
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.377195558223844,
+      "long": 28.279921868470637
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.761730185557255,
+      "long": 31.10763153442361
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.58705566538041,
+      "long": 69.11719910016488
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.342427048091444,
+      "long": 19.811629984912535
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.816213425909034,
+      "long": 3.067252063985427
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.391323998757247,
+      "long": 44.1543366551399
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.453630341948767,
+      "long": 28.32388887816563
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.72870261965665,
+      "long": 31.00387096064526
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.603803325761845,
+      "long": 69.33578970449629
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.33812014857612,
+      "long": 19.755916280303676
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.91338913022106,
+      "long": 3.1233369743942876
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.301287093242127,
+      "long": 44.13916441923351
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.373776812897438,
+      "long": 28.267582974681844
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.768230261146783,
+      "long": 31.186107582548637
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.62983990627776,
+      "long": 69.1915031342801
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.34404364087677,
+      "long": 19.798394528059394
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.78052856372881,
+      "long": 2.956978704516543
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.367617670969137,
+      "long": 44.264336450711255
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.476165060869546,
+      "long": 28.4589675126151
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.74648268887326,
+      "long": 31.104884065761627
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.550126987497315,
+      "long": 69.38510958146031
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.22765204541404,
+      "long": 19.740470193284697
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.82952008188943,
+      "long": 2.988826659605046
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.286962201628926,
+      "long": 44.24944868600124
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.389081203863986,
+      "long": 28.187376353763277
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.77257315095427,
+      "long": 31.13901202464731
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.54068963861188,
+      "long": 69.12198883080407
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.321495684562095,
+      "long": 19.785978050539484
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.79519263217301,
+      "long": 2.979362184986429
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.388011027431372,
+      "long": 44.17304441565767
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.383362911888572,
+      "long": 28.418551430080385
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.671031070973477,
+      "long": 31.059339485251478
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.61734094580476,
+      "long": 69.26228590838056
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.431637894556076,
+      "long": 19.699799613015784
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.88876256516376,
+      "long": 3.219089130390267
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.266476525379218,
+      "long": 44.17177003720634
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.418218965698669,
+      "long": 28.254013378874806
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.702758072692962,
+      "long": 31.212437582452907
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.6149098193705,
+      "long": 69.18443404044523
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.3941379352559,
+      "long": 19.78377121875666
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.66878682114389,
+      "long": 3.017022124643712
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.296502028210925,
+      "long": 44.286812523969544
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.454735708504646,
+      "long": 28.35546613311086
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.85756847023355,
+      "long": 31.002276833304787
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.577022328470086,
+      "long": 69.33720627420648
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.33191983859327,
+      "long": 19.823618234801604
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.84361232316911,
+      "long": 3.0600339751197616
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.410049656003405,
+      "long": 44.227105736272414
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.32501668598271,
+      "long": 28.354925269926426
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.727780243584682,
+      "long": 31.205726322132275
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.57499783411689,
+      "long": 69.17769740354765
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.252297086844976,
+      "long": 19.837984113671098
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.785233788414736,
+      "long": 3.163289204790407
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.42562474567836,
+      "long": 44.221221705700074
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.523816477820233,
+      "long": 28.224818246116445
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.738005558762865,
+      "long": 31.001137582373445
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.6941887001124,
+      "long": 69.43037572294821
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.35032005863538,
+      "long": 19.712402616911806
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.952998603291434,
+      "long": 3.0919905702076234
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.210061277322067,
+      "long": 44.234459198341604
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.390262703206954,
+      "long": 28.340643800206436
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.802764472960103,
+      "long": 31.114801866269275
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.61544064788414,
+      "long": 69.23085663053288
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.32424519169755,
+      "long": 19.782070279186392
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.81707757856439,
+      "long": 2.881290911132531
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.426893174719808,
+      "long": 44.316240923755
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.445064218066054,
+      "long": 28.516367613675165
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.725867888762384,
+      "long": 31.150612006128668
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.614150651662456,
+      "long": 69.32651457281672
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.1485781887276,
+      "long": 19.659032238584558
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.811849472031355,
+      "long": 2.9460550615502865
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.275287003085728,
+      "long": 44.150504477588775
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.45093266888747,
+      "long": 28.11933884853574
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.81278470836809,
+      "long": 31.13731566835616
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.612581462825844,
+      "long": 69.0689888363854
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.35291549490306,
+      "long": 19.68788985116809
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.81599560350456,
+      "long": 2.888802652200702
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.361719967657784,
+      "long": 44.09929159622351
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.292042578530609,
+      "long": 28.461323246864172
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.6495119857654,
+      "long": 31.11847038801176
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.71540645425626,
+      "long": 69.21183913260357
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.4416838002527,
+      "long": 19.784874903822235
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.95985580361312,
+      "long": 3.244484093314503
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.324746389380817,
+      "long": 44.22548749526109
+    }
+  },
+  {
+    "country": "Zambia",
+    "city": "Lusaka",
+    "geo": {
+      "lat": -15.40819677540493,
+      "long": 28.268186463194198
+    }
+  },
+  {
+    "country": "Zimbabwe",
+    "city": "Harare",
+    "geo": {
+      "lat": -17.74474545274071,
+      "long": 31.233761120122345
+    }
+  },
+  {
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "geo": {
+      "lat": 34.56326799994909,
+      "long": 69.252723726752
+    }
+  },
+  {
+    "country": "Albania",
+    "city": "Tirana",
+    "geo": {
+      "lat": 41.354530042915286,
+      "long": 19.840303548673234
+    }
+  },
+  {
+    "country": "Algeria",
+    "city": "Algiers",
+    "geo": {
+      "lat": 36.818959039638244,
+      "long": 3.114587594454068
+    }
+  },
+  {
+    "country": "Yemen",
+    "city": "Sana'a",
+    "geo": {
+      "lat": 15.456567999525227,
+      "long": 44.287329532821005
+    }
+  }
+]
