@@ -106,7 +106,7 @@
     - Input: [1, 2, 3, 4, 5].
     - Output: 15.
     - Explanation: Iterate through the array and sum the elements.
-    - 
+  
 ## Iterators
 1.  **Array.forEach Method**
     - Use `forEach` to log each element of an array.
@@ -152,7 +152,7 @@
 
 6.  **Abstract Class**:
 
-     - Problem: Create an abstract class `Shape` with an abstract method `calculateArea` and extend it in subclasses.
+    - Problem: Create an abstract class `Shape` with an abstract method `calculateArea` and extend it in subclasses.
     - Input: None.
     - Output: Explanatory text.
     - Explanation: Explain that JavaScript does not have native abstract classes but can be simulated.
@@ -368,3 +368,8 @@
    - Example Input: `addBook('JavaScript: The Good Parts', 'Douglas Crockford', '9780596517748'), searchBook('JavaScript: The Good Parts')`
    - Example Output: `{ title: 'JavaScript: The Good Parts', author: 'Douglas Crockford', ISBN: '9780596517748' }`
    - Explanation: The `addBook` function adds a new book to the system, and `searchBook` returns the details of the book if found.
+
+33. **Write a JavaScript function filterActiveUsers that takes a JSON array of user objects and returns a new array containing only the objects where the isActive property is true.**
+    - Write a function to filter the list of active profile from the file person.json and create a new file "active_persons.json" to append all the active profile to that file
+
+
