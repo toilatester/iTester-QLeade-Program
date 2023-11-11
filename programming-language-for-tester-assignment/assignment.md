@@ -332,9 +332,7 @@
     - Explanation: The function prints a sequence based on divisibility.
 
 27. **Reverse String**
-    - Problem: Create a function
-
- that reverses a given string.
+    - Problem: Create a function that reverses a given string.
     - Example Input: `'hello'`
     - Example Output: `'olleh'`
     - Explanation: The function returns the input string in reverse order.
