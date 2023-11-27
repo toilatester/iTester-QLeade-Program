@@ -5,7 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ba0ad0-3dab-4529-8293-a64ec8df8cf6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ArrayFilterUsage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ArrayReduceMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ArraySum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /BankAccountObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /CallbackFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /CheckPrimeNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ConvertTemperature.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /CountCharacters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /CreatingAndUsingAClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /DefaultParameters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /DestructuringAssignment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ErrorHandlingWithTryCatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /EventScheduler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /Factorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FilterActiveUserJSON.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FindLongestWord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FindMaximumValue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FindNearByCountryAndCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FizzBuzz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FunctionReturningAFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /GroceryListManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /LibraryManagementSystem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /OddOrEven.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /PalindromeChecker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /PromisesAndSyncAwait.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /RestParameters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ReversString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /SimpleInterestCalculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /SortArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /SpeardOperator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /StringConcatenation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /SwitchStatement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /TemplateLiterals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /TernaryOperator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/AbstractClass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/ClassDefinition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/DestructuringAssignment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/DynamaicObjectKeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/NestedObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/OOPAssignment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/OOPAssignmentEncapsulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/OOPAssignmentInheritance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/OOPAssignmentPolymorphism.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/ResetParameter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/SpreadOperator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/TemplateLiterals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,88 +77,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lap12319/iTester-QLead-Program&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "18.15.0",
+    "javascript.nodejs.core.library.typings.version": "18.15.0",
+    "last_opened_file_path": "/Users/lap12319/iTester-QLead-Program/vietnnq-assignment/IntermediateProblems ",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems " />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.IteratorsJS.js">
-    <configuration name="assignment.ts" type="K6ConfigurationType" factoryName="k6" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <option name="allowRunningInParallel" value="false" />
-      <option name="data">
-        <K6RunData>
-          <option name="additionalParams" value="" />
-          <option name="envs">
-            <map />
-          </option>
-          <option name="pty" value="true" />
-          <option name="script" value="vietnnq-assignment/assignment.ts" />
-          <option name="thresholdsAsTests" value="true" />
-          <option name="type" value="local" />
-        </K6RunData>
-      </option>
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="additionalParams" value="" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="pty" value="true" />
-      <option name="script" value="vietnnq-assignment/assignment.ts" />
-      <option name="thresholdsAsTests" value="true" />
-      <option name="type" value="local" />
+  <component name="RunManager">
+    <configuration name="Conditionals.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" path-to-js-file="IntermediateProblems /LibraryManagementSystem.js" working-dir="$PROJECT_DIR$/vietnnq-assignment">
       <method v="2" />
     </configuration>
-    <configuration name="Arrays.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" nameIsGenerated="true" path-to-js-file="vietnnq-assignment/Arrays.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="Conditionals.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" path-to-js-file="Conditionals.js" working-dir="$PROJECT_DIR$/vietnnq-assignment">
-      <method v="2" />
-    </configuration>
-    <configuration name="FunctionsAndScope.js" type="NodeJSConfigurationType" path-to-js-file="vietnnq-assignment/FunctionAndScope.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="IteratorsJS.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="vietnnq-assignment/IteratorsJS.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="Loops.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="vietnnq-assignment/Loops.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="SyntaxDataType.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" nameIsGenerated="true" path-to-js-file="SyntaxDataType.js" working-dir="$PROJECT_DIR$/vietnnq-assignment">
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="k6.assignment.ts" />
-      <item itemvalue="Node.js.SyntaxDataType.js" />
-      <item itemvalue="Node.js.FunctionsAndScope.js" />
-      <item itemvalue="Node.js.Arrays.js" />
-      <item itemvalue="Node.js.Loops.js" />
-      <item itemvalue="Node.js.IteratorsJS.js" />
-      <item itemvalue="Node.js.Conditionals.js" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="k6.assignment.ts" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -134,5 +128,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FindLongestWord.js</url>
+          <line>6</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
