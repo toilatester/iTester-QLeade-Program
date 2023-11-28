@@ -5,53 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ba0ad0-3dab-4529-8293-a64ec8df8cf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ArrayFilterUsage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ArrayReduceMethod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ArraySum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /BankAccountObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /CallbackFunctions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /CheckPrimeNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ConvertTemperature.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /CountCharacters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /CreatingAndUsingAClass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /DefaultParameters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /DestructuringAssignment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ErrorHandlingWithTryCatch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /EventScheduler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /Factorial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FilterActiveUserJSON.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FindLongestWord.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FindMaximumValue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FindNearByCountryAndCity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FizzBuzz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FunctionReturningAFunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /GroceryListManager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /LibraryManagementSystem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /OddOrEven.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /PalindromeChecker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /PromisesAndSyncAwait.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /RestParameters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /ReversString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /SimpleInterestCalculator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /SortArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /SpeardOperator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /StringConcatenation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /SwitchStatement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /TemplateLiterals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /TernaryOperator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/AbstractClass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/ClassDefinition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/DestructuringAssignment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/DynamaicObjectKeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/NestedObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/OOPAssignment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/OOPAssignmentEncapsulation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/OOPAssignmentInheritance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/OOPAssignmentPolymorphism.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/ResetParameter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/SpreadOperator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vietnnq-assignment/ObjectsAndOOPConcept/TemplateLiterals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming-language-for-tester-assignment/activePersons.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FilterActiveUserJSON.js" beforeDir="false" afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FilterActiveUserJSON.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +60,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Conditionals.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" path-to-js-file="IntermediateProblems /LibraryManagementSystem.js" working-dir="$PROJECT_DIR$/vietnnq-assignment">
+    <configuration name="Conditionals.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" path-to-js-file="IntermediateProblems /FilterActiveUserJSON.js" working-dir="$PROJECT_DIR$/vietnnq-assignment">
       <method v="2" />
     </configuration>
   </component>
