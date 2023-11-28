@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07ba0ad0-3dab-4529-8293-a64ec8df8cf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/programming-language-for-tester-assignment/activePersons.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FilterActiveUserJSON.js" beforeDir="false" afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FilterActiveUserJSON.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FindNearByCountryAndCity.js" beforeDir="false" afterPath="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FindNearByCountryAndCity.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Conditionals.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" path-to-js-file="IntermediateProblems /FilterActiveUserJSON.js" working-dir="$PROJECT_DIR$/vietnnq-assignment">
+    <configuration name="Conditionals.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" path-to-js-file="IntermediateProblems /FindNearByCountryAndCity.js" working-dir="$PROJECT_DIR$/vietnnq-assignment">
       <method v="2" />
     </configuration>
   </component>
