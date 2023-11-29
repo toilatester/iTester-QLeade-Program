@@ -1,3 +1,5 @@
+const { resolve } = require("path");
+
 /**
  * ## Intermediate Problems
     1.  **Switch Statement**
@@ -186,7 +188,6 @@ console.log(`Hello! My name is ${nickName}`);
  */
 
 
-
 /**
  * 15. **String Concatenation**
    - Problem: Create a function that concatenates two strings with a space between them.
@@ -204,7 +205,7 @@ console.log(concatStr('Hello', 'World'));
    - Problem: Write a function that sums all the numbers in an array.
    - Example Input: `[1, 2, 3, 4]`
    - Example Output: `10`
-   - Explanation: The function adds up all elements of the array to return 10.
+   - Explanation: The function ads up all elements of the array to return 10.
  */
 function sumArr(arr){
     return arr.reduce((sum,currentValue) => sum + currentValue);

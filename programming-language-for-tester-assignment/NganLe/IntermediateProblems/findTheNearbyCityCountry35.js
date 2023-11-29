@@ -43,3 +43,25 @@
     
     The above country is neary becasue the long value of Zambia is 28.32388887816563 and the long value of Zimbabwe is 31.00387096064526. The distance between to country is 31.00387096064526 - 28.3238888781656 < 10
  */
+function returnGroupNearbyCity(arrCity){
+    for(let i=0; i<arrCity.length-1; i++){
+        for(let j=i+1; j<arrCity.length; j++){
+            if(Math.abs(arrCity[i].geo.lat - arrCity[j].geo.lat) <= 10 || Math.abs(arrCity[i].geo.long - arrCity[j].geo.long) <= 10){
+                console.log(`Group country has nearby: `);
+                console.log(arrCity[i]);
+                console.log(arrCity[j]);
+            }
+        }
+    }
+}
+function createNearbyCityFile(){
+    const fs = require('fs');
+    try {
+        const readFile = fs.readFileSync('./countries_with_cities.json', 'utf-8');
+        var parsedData = JSON.parse(readFile); 
+        returnGroupNearbyCity(parsedData);
+    } catch (error) {
+        console.error('Error reading JSON file:', error.message);
+    }
+}
+createNearbyCityFile();

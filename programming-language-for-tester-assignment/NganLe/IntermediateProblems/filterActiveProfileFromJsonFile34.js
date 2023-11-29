@@ -10,15 +10,14 @@ function filterActiveProfile(arrProfiles){
 function createActiveProfileFile(){
     const fs = require('fs');
     try {
-        const readFile = fs.readFileSync('programming-language-for-tester-assignment/persons.json', 'utf-8');
+        const readFile = fs.readFileSync('./persons.json', 'utf-8');
         var parsedData = JSON.parse(readFile);
 
         const writeFile = JSON.stringify(filterActiveProfile(parsedData), null, 4);
-        fs.writeFileSync('programming-language-for-tester-assignment/NganLe/active_persons.json', writeFile, 'utf8'); 
-        console.log(`File is written successfully!`);  
+        fs.writeFileSync('./NganLe/active_persons.json', writeFile, 'utf8'); 
+        // console.log(`File is written successfully!`);  
     } catch (error) {
         console.error('Error reading JSON file:', error.message);
     }
-
 }
 console.log(createActiveProfileFile());
