@@ -5,11 +5,9 @@
     - Example output: `1 2 3 4 5`
     - Explanation: Teaches the basic for loop structure.
  */
-var str = "";
-for(let i = 1; i <= 5; i++){
-    str = str + ' ' + i;
+for (let i = 1; i <= 5; i++) {
+    console.log(i);
 }
-console.log(str.trim());
 
 /**
  * 2.  **While Loop Usage**
@@ -17,13 +15,11 @@ console.log(str.trim());
     - Example output: `5 4 3 2 1`
     - Explanation: Demonstrates a while loop and decrementing.
  */
-var str1 = "";
-var count = 5;
-while (count > 0){
-    str1 = str1 + ' ' + count;
+let count = 5;
+while (count > 0) {
+    console.log(count);
     count--;
 }
-console.log(str1.trim());
 
 /**
  * 3.  **Loop Through Array**:
@@ -32,12 +28,11 @@ console.log(str1.trim());
     - Output: "apple" "banana" "cherry"
     - Explanation: Use any loop for iteration.
  */
-function printEachElement(input){
-    var str = "";
-    for(let i = 0; i < input.length; i++){
-        str = str + ' ' + '"' + input[i] + '"';
+function printEachElement(array) {
+    arrLength = array.length;
+    for (let i = 0; i < arrLength; i++) {
+        console.log(array[i]);
     }
-    console.log(str.trim());
 }
 //Cách này cũng trả về chuỗi element nhưng lại không có dấu ""
 // function printEachElement(input){
@@ -52,10 +47,11 @@ printEachElement(["apple", "banana", "cherry"]);
     - Output: 15.
     - Explanation: Iterate through the array and sum the elements.
  */
-function sum(input){
+function sum(array) {
     var sum = 0;
-    for(let i = 0; i < input.length; i++){
-        sum += input[i];
+    arrLength = array.length;
+    for (let i = 0; i < arrLength; i++) {
+        sum += array[i];
     }
     console.log(sum);
 }

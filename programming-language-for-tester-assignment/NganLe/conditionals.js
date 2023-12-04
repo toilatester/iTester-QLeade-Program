@@ -5,9 +5,9 @@
    - Example output: `Greater than 10` (if the number is 12)
    - Explanation: Teaches the if statement and comparison.
  */
-function checkGreaterThan10(a){
-    if (a > 10){
-        console.log("Greater than 10");
+function checkGreaterThan10(number) {
+    if (number > 10) {
+        console.log('Greater than 10');
     }
 }
 checkGreaterThan10(12);
@@ -18,11 +18,11 @@ checkGreaterThan10(12);
    - Example output: `Adult` (if age is 18)
    - Explanation: Introduces the if-else statement.
  */
-function checkAge(age){
-    if(age >= 18){
-        console.log("Adult");
+function checkAge(age) {
+    if (age >= 18) {
+        console.log('Adult');
     } else {
-        console.log("Minor");
+        console.log('Minor');
     }
 }
-checkAge(18)
+checkAge(18);

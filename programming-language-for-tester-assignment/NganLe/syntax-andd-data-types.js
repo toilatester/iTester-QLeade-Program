@@ -6,7 +6,7 @@
    - Example output: `Hello, World!`
    - Explanation: This problem helps understand the basic syntax of console output.
  */
-console.log("Hello, World!");
+console.log('Hello, World!');
 
 /**
  * 2. **Variable Declaration**
@@ -14,7 +14,7 @@ console.log("Hello, World!");
    - Example output: `John`
    - Explanation: Demonstrates variable declaration and string data type.
  */
-var name = 'Ngan';
+const name = 'Ngan';
 console.log(name);
 
 /**
@@ -23,10 +23,7 @@ console.log(name);
    - Example output: `20`
    - Explanation: Shows the order of arithmetic operations.
  */
-function calculate (a, b, c){
-  return (a + b) * c;
-}
-console.log( calculate(7, 3, 2));
+console.log((7 + 3) * 2);
 
 /**
  * 4. **Type Conversion**
@@ -34,7 +31,4 @@ console.log( calculate(7, 3, 2));
    - Example output: `130`
    - Explanation: Introduces type conversion from string to integer.
  */
-function convertToIntergerAndAdd(a, b){
-  return parseInt(a) + b;
-}
-console.log(convertToIntergerAndAdd('123', 7));
+console.log(parseInt('123') + 7)

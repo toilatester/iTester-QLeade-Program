@@ -7,11 +7,7 @@
     - Explanation: Teaches the `forEach` method for arrays.
     array.forEach(function(currentValue, index, arr), thisValue)
  */
-const input = [ 'a', 'b', 'c' ];
-function printEachElement(currentValue){
-    console.log(currentValue);
-}
-input.forEach(printEachElement);
+['a', 'b', 'c'].forEach((currentValue) => console.log(currentValue));
 
 /**
  * 2.  **Array.map Usage**
@@ -20,8 +16,4 @@ input.forEach(printEachElement);
     - Example output: `[2, 4, 6]`
     - Explanation: Introduces the `map` method.
  */
-const input1 = [1, 2, 3];
-function double(currentValue){
-    return currentValue * 2;
-}
-console.log(input1.map(double));
+console.log([1, 2, 3].map((currentValue) => currentValue * 2));

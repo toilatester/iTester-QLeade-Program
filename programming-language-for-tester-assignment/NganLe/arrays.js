@@ -6,8 +6,8 @@
    - Example output: `[3, 2, 1]`
    - Explanation: Teaches array manipulation methods.
  */
-function reverseOrder(a){
-    return a.reverse();
+function reverseOrder(array) {
+  return array.reverse();
 }
 console.log('Ex1-----------')
 console.log(reverseOrder([1, 2, 3]));
@@ -18,7 +18,7 @@ console.log(reverseOrder([1, 2, 3]));
     - Example output: `3` (if the array is `[1, 2, 3, 4, 5]`)
     - Explanation: Introduces indexing in arrays.
  */
-let arr = [1, 2, 3, 4, 5];
+const arr = [1, 2, 3, 4, 5];
 console.log('Ex2-----------')
 console.log(arr[2]);
 
@@ -30,9 +30,9 @@ console.log(arr[2]);
     - Explanation: `.filter()` creates a new array with all elements that pass the test implemented by the provided function.
     array.filter(function(currentValue, index, arr), thisValue)
  */
-function returnNumberGreaterThan10(arr){
-  return arr.filter(function(value){
-    return value>10;
+function returnNumberGreaterThan10(arr) {
+  return arr.filter(function (value) {
+    return value > 10;
   })
 }
 console.log('Ex3-----------')
@@ -46,9 +46,9 @@ console.log(returnNumberGreaterThan10([5, 12, 18, 1, 24]));
     - Explanation: `.reduce()` applies a function against an accumulator and each element in the array to reduce it to a single value.
     array.reduce(function(accumulator, currentValue, currentIndex, arr), initialValue)
  */
-function returnTotal(arr){
-  return arr.reduce(function(accumulator, currentValue){
-    return accumulator + currentValue;
+function returnTotal(arr) {
+  return arr.reduce(function (total, currentValue) {
+    return total + currentValue;
   });
 }
 console.log('Ex4-----------')
@@ -64,13 +64,13 @@ console.log(returnTotal([1, 2, 3, 4, 5]));
 // function filterGreater(input, givenValue){
 //   return input.filter((valueGreater) => valueGreater > givenValue);
 // }
-function filterGreater(input, givenValue){
-  return input.filter(function(valueGreater){
+function filterGreater(input, givenValue) {
+  return input.filter(function (valueGreater) {
     return valueGreater > givenValue;
   });
 }
 console.log('Ex5-----------')
-console.log(filterGreater([1, 4, 6, 7, -3],5));
+console.log(filterGreater([1, 4, 6, 7, -3], 5));
 
 /**
  * 6.  **Map Array**
@@ -80,7 +80,7 @@ console.log(filterGreater([1, 4, 6, 7, -3],5));
     - Explanation: The function squares each element of the array.
     array.map(function(currentValue, index, arr), thisValue)
  */
-function squaredArray(input){
+function squaredArray(input) {
   return input.map((square) => square * square);
 }
 console.log('Ex6-----------')

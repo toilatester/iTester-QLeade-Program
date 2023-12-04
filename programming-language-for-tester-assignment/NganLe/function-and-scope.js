@@ -5,9 +5,9 @@
    - Example input: `greet("Alice")`
    - Example output: `Hello, Alice!`
    - Explanation: Demonstrates function creation and argument passing.
- *  */ 
-function greet(name){
-    console.log(`Hello, ${name}!`);
+ *  */
+function greet(name) {
+  console.log(`Hello, ${name}!`);
 }
 greet('Alice');
 
@@ -17,8 +17,8 @@ greet('Alice');
    - Explanation: Helps understand global and local scope.
  */
 const school = 'UIT';
-function greetAndIntroduce(name){
-    console.log(`Hello, ${name}!, I study at ${school}`);
+function greetAndIntroduce(name) {
+  console.log(`Hello, ${name}!, I study at ${school}`);
 }
 greetAndIntroduce('Alice');
 
@@ -29,7 +29,7 @@ greetAndIntroduce('Alice');
     - Output: 16.
     - Explanation: The function should multiply the number by itself.
  */
-function square(a){
-    return a*a;
+function square(number) {
+  return number * number;
 }
 console.log(square(4));
