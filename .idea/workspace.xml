@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07ba0ad0-3dab-4529-8293-a64ec8df8cf6" name="Changes" comment="" />
+    <list default="true" id="07ba0ad0-3dab-4529-8293-a64ec8df8cf6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/async-problems/Node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async-problems/PromiseCallBack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +22,7 @@
       <list>
         <option value="TypeScript File" />
         <option value="JavaScript File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -36,29 +44,67 @@
     "WebServerToolWindowFactoryState": "false",
     "javascript.nodejs.core.library.configured.version": "18.15.0",
     "javascript.nodejs.core.library.typings.version": "18.15.0",
-    "last_opened_file_path": "/Users/lap12319/iTester-QLead-Program/vietnnq-assignment/IntermediateProblems ",
+    "last_opened_file_path": "/Users/lap12319/iTester-QLead-Program",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "vcs.Git",
     "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems " />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Conditionals.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" path-to-js-file="IntermediateProblems /FindNearByCountryAndCity.js" working-dir="$PROJECT_DIR$/vietnnq-assignment">
+  <component name="RunManager" selected="Node.js.Node.js">
+    <configuration name="Node.js" type="K6ConfigurationType" factoryName="k6" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="data">
+        <K6RunData>
+          <option name="additionalParams" />
+          <option name="envs">
+            <map />
+          </option>
+          <option name="pty" value="true" />
+          <option name="script" value="async-problems/Node.js" />
+          <option name="thresholdsAsTests" value="true" />
+          <option name="type" value="local" />
+        </K6RunData>
+      </option>
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="additionalParams" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="pty" value="true" />
+      <option name="script" value="async-problems/Node.js" />
+      <option name="thresholdsAsTests" value="true" />
+      <option name="type" value="local" />
       <method v="2" />
     </configuration>
+    <configuration name="Node.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" path-to-js-file="Node.js" working-dir="$PROJECT_DIR$/async-problems">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="k6.Node.js" />
+      <item itemvalue="Node.js.Node.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="k6.Node.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,16 +127,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/vietnnq-assignment/IntermediateProblems /FindLongestWord.js</url>
-          <line>6</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
