@@ -4,18 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07ba0ad0-3dab-4529-8293-a64ec8df8cf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/async-problems/Node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/async-problems/PromiseCallBack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="07ba0ad0-3dab-4529-8293-a64ec8df8cf6" name="Changes" comment="done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/async-problems/Node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/async-problems/PromiseCallBack.js" beforeDir="false" afterPath="$PROJECT_DIR$/async-problems/AnsynchronousRequest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,7 +97,7 @@
       <option name="type" value="local" />
       <method v="2" />
     </configuration>
-    <configuration name="Node.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" path-to-js-file="Node.js" working-dir="$PROJECT_DIR$/async-problems">
+    <configuration name="Node.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../.nvm/versions/node/v18.15.0/bin/node" path-to-js-file="AnsynchronousRequest.js" working-dir="$PROJECT_DIR$/async-problems">
       <method v="2" />
     </configuration>
     <list>
@@ -122,6 +126,14 @@
       <workItem from="1700706829518" duration="2000" />
       <workItem from="1700993952691" duration="1593000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1701849744879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701849744879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,5 +149,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
