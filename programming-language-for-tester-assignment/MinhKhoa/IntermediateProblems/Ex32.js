@@ -19,7 +19,17 @@ function removeBook(title){
     console.log(`${title} is not found in the library.`);
   }
 }
-
+// 
+// function removeBook(title) {
+  // const removedBook = library.find(book => book.title === title);
+  // if (removedBook) {
+    // this.book = library.filter(book => book.title !== title);
+    // console.log(`Removed "${removedBook.title}" by ${removedBook.author} from the library.`);
+  // } else {
+    // console.log(`Book with title ${title} not found in the library.`);
+  // }
+// }
+// 
 function searchBook(title){
     const book = library.find(book => book.title === title);
     if(book){
