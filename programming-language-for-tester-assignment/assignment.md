@@ -415,3 +415,54 @@
     ```
     
     The above country is neary becasue the long value of Zambia is 28.32388887816563 and the long value of Zimbabwe is 31.00387096064526. The distance between to country is 31.00387096064526 - 28.3238888781656 < 10
+
+## Asynchronous Problems
+
+### JavaScript Exercise: Weather Service with Different REST Clients
+
+#### Background
+You need to fetch weather data using the OpenWeatherMap One Call API (https://openweathermap.org/api/one-call-3) in a Node.js environment. This exercise focuses on using different REST client libraries to handle asynchronous requests using callbacks, promises, and async/await.
+
+#### Task
+1. **Setup**
+   - Create a Node.js project.
+   - Install the required libraries:
+     - `npm install axios` for Promises.
+     - `npm install request` for Callbacks (Note: As of my last update, 'request' is deprecated, but still useful for educational purposes).
+     - `npm install node-fetch` for Async/Await.
+
+2. **API Key**
+   - Register on OpenWeatherMap and obtain an API key.
+
+3. **Asynchronous Requests Using Different Libraries**
+   - **Part 1: Callbacks with `request`**
+     - Create a function `fetchWeatherWithRequest(lat, lon, callback)` that makes an HTTP request using the `request` library.
+     - Handle the asynchronous operation using the traditional callback pattern.
+
+   - **Part 2: Promises with `axios`**
+     - Create a function `fetchWeatherWithAxios(lat, lon)` that returns a promise.
+     - Utilize `axios` to make the HTTP request.
+     - Use `.then()` and `.catch()` for handling the promise.
+
+   - **Part 3: Async/Await with `node-fetch`**
+     - Create an `async` function `fetchWeatherWithFetch(lat, lon)` for the task.
+     - Use `node-fetch` for making the HTTP request.
+     - Employ `try...catch` for error handling.
+
+4. **Testing**
+   - Test each function with the same set of latitude and longitude coordinates.
+   - Console log the results or errors for each approach.
+
+5. **Comparison**
+   - Write a brief comparison of your experience using the different libraries and asynchronous patterns.
+
+#### Deliverables
+- A JavaScript file containing all three functions, each utilizing a different library.
+- A text file with your insights and comparison of the different libraries and asynchronous handling techniques.
+
+#### Notes
+- Properly handle errors in each method.
+- Comment your code for better understanding.
+
+#### Bonus Challenge
+- Extend the exercise by integrating a feature to format the date and time from the Unix timestamp provided by the API response.
