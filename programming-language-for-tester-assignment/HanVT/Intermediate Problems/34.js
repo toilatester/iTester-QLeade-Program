@@ -70,7 +70,7 @@ fs.readFile(filePath, 'utf8', (err, data) => {
     var countList=0
     while (pool.cityList.length!=0) {
         
-        findNearAndAddToList(listOfNearCity[0],pool.cityList)
+        findNearAndAddToList(listOfNearCity[countList],pool.cityList)
         countList=countList+1
     }
     for (let i=0;i<countList;i++){
