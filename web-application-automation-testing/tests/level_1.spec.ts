@@ -5,13 +5,8 @@ const testusername = 'hanhppn';
 const testpassword = 'Hanh290901';
 
 test('Login' , async ({ page }) => {
-
-    /*await page.goto('http://localhost:3001/dashboard');
-    await page.getByPlaceholder('Username').fill("hanhppn");
-    await page.getByPlaceholder('Password').fill("Hanh290901");
-    await page.getByRole('button').click();*/
     await login(page, testusername, testpassword);
-    await expect(page.locator("//div[@class='profile-pic']")).toBeVisible;
+     expect(page.locator("//div[@class='profile-pic']")).toBeVisible;
 });
 
 test ( 'Add Monitor' , async ({ page }) => {
@@ -19,19 +14,38 @@ test ( 'Add Monitor' , async ({ page }) => {
     await page.locator("//a[@href='/add']").click();
     await page
     .locator("//input[@id='name']")
-    .fill('Add Mornitor');
+    .fill('Add Monitor');
     await page.getByLabel('URL').fill('https://hanhppn');
     await page.getByRole('button',{name:'Save'}).click();
-    await expect(page.getByRole('alert',{name : 'Added Successfully.'})).toBeVisible;
+    expect(page.getByRole('alert',{name : 'Added Successfully.'})).toBeVisible;
 });
 
 test ( 'View Monitor Details', async ({page} ) => {
     await login(page, testusername, testpassword);
-    await page.locator("//a[@class='item disabled']//div[contains(text(),'Add Mornitor')]").click();
-
-   //await page.getByText(' Add Mornitor').click();
+    await page.getByTitle('24-hour').click();
     const nameMonitor = await page.locator('h1').textContent();
-    const linkMonitor = await page.getByRole('link', { name: 'https://hanhppn/'})
-    await expect(nameMonitor).toBe('Add Mornitor');
-    await expect(linkMonitor).toBe('https://hanhppn');
+    const locator = page.locator('p.url a');
+    const url_locator = await locator.getAttribute ('href');
+    expect(nameMonitor).toBe('Add Monitor');
+     expect(url_locator).toBe('https://hanhppn');
+
 });
+
+test ('Pause Monitor', async ({page}) => {
+    await login(page, testusername, testpassword);
+    await page.locator("//div[@class='info']").click();
+    await page.getByRole('button',{name: 'Pause'}).click();
+    await page.getByRole('button',{name: 'Yes'}).click();
+    expect(page.getByRole('alert',{name : 'Paused Successfully.'})).toBeVisible;
+}
+);
+
+test ('Search', async ({page})=> {
+    await login(page, testusername, testpassword);
+    await page
+     .getByPlaceholder('Search…')
+     .fill('Add Monitor');
+    await page.keyboard.press('Enter');
+    expect(page.locator("//a[@class='active router-link-exact-active item disabled']")).toBeVisible;
+}
+)
