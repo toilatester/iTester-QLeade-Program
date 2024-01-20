@@ -4,13 +4,13 @@ import { login } from '../page/login.ts';
 const testusername = 'hanhppn';
 const testpassword = 'Hanh290901';
 
-test('Login' , async ({ page }) => {
+test.beforeEach('Login' , async ({ page }) => {
     await login(page, testusername, testpassword);
      expect(page.locator("//div[@class='profile-pic']")).toBeVisible;
 });
 
 test ( 'Add Monitor' , async ({ page }) => {
-    await login(page, testusername, testpassword);
+   // await login(page, testusername, testpassword);
     await page.locator("//a[@href='/add']").click();
     await page
     .locator("//input[@id='name']")
@@ -21,7 +21,6 @@ test ( 'Add Monitor' , async ({ page }) => {
 });
 
 test ( 'View Monitor Details', async ({page} ) => {
-    await login(page, testusername, testpassword);
     await page.getByTitle('24-hour').click();
     const nameMonitor = await page.locator('h1').textContent();
     const locator = page.locator('p.url a');
@@ -32,7 +31,6 @@ test ( 'View Monitor Details', async ({page} ) => {
 });
 
 test ('Pause Monitor', async ({page}) => {
-    await login(page, testusername, testpassword);
     await page.locator("//div[@class='info']").click();
     await page.getByRole('button',{name: 'Pause'}).click();
     await page.getByRole('button',{name: 'Yes'}).click();
@@ -41,7 +39,6 @@ test ('Pause Monitor', async ({page}) => {
 );
 
 test ('Search', async ({page})=> {
-    await login(page, testusername, testpassword);
     await page
      .getByPlaceholder('Search…')
      .fill('Add Monitor');
