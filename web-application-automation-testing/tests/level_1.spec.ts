@@ -15,7 +15,7 @@ test ( 'Add Monitor' , async ({ page }) => {
     await page
     .locator("//input[@id='name']")
     .fill('Add Monitor');
-    await page.getByLabel('URL').fill('https://hanhppn');
+    await page.getByLabel('URL').fill('https://playwright.dev/docs/locators#locate-by-test-id');
     await page.getByRole('button',{name:'Save'}).click();
     expect(page.getByRole('alert',{name : 'Added Successfully.'})).toBeVisible;
 });
@@ -26,7 +26,7 @@ test ( 'View Monitor Details', async ({page} ) => {
     const locator = page.locator('p.url a');
     const url_locator = await locator.getAttribute ('href');
     expect(nameMonitor).toBe('Add Monitor');
-     expect(url_locator).toBe('https://hanhppn');
+     expect(url_locator).toBe('https://playwright.dev/docs/locators#locate-by-test-id');
 
 });
 
