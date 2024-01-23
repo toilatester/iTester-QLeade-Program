@@ -5,5 +5,10 @@
     "axios": "^1.6.2",
     "node-fetch": "^3.3.2",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.7"
+  },
+  "scripts": {}
 }
