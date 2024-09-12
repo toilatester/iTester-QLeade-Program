@@ -1,0 +1,15 @@
+***Design
+request: use callback -> can lead to callback hell if having many requests
+axios,fetch: support promise -> easier to work with asynchronous
+***Response
+request,axios: the respone is converted to json automatically
+fetch: should use .json() to convert
+ 
+request, fetch: get the respone easier (response)
+axios: response.data
+   
+***Error handling
+Axios: return error directly
+fetch: check via status of 'response.ok'
+request: check status code
+ 
